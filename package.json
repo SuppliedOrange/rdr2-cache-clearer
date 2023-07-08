@@ -1,0 +1,23 @@
+{
+  "name": "rdr2-cache-clearer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fixer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node fixer.js"
+  },
+  "bin" : {
+    "execute" : "fixer.js"
+  },
+  "keywords": [
+    "red dead redemption 2",
+    "rdr2",
+    "rockstar games"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^3.0.2"
+  }
+}
