@@ -9,3 +9,7 @@ You can and it might even work for you. But I built this solely for myself. I've
 
 ## It doesn't work
 Well, that's a bummer. This is a [reddit post](https://www.reddit.com/r/PCRedDead/comments/xf2klu/low_fps_in_rdr2_suddenly_for_no_reason/) that might help. Do not delete `settings.xml`, the user who mentioned that is wrong. Other than this, I haven't a clue. My game doesn't run very well either. I don't care enough to keep looking for solutions now, but let me know if you find any!
+
+## Building
+For most of you who aren't familiar with programming, use the executable in the [releases tab](https://github.com/SuppliedOrange/rdr2-cache-clearer/releases). There's only one and it's labelled as a pre-release.
+For others, `npm install` in the repository and running `node fixer.js` should be fine.
