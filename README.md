@@ -1,6 +1,10 @@
 # rdr2-cache-clearer
 A tiny solution to a problem I face
 
+## I resolved this issue!
+
+Turns out the problem was unrelated and this was just an elaborate and unnecessary solution. Disable full-screen optimization and switch to borderless window. I won't be privating this repo because it might help someone somwhere.
+
 ## What?
 Lately I've been facing terrible stutters in red dead redemption 2. The internet didn't really help me resolve it except for one answer in particular. To delete all the pipeline cache files in `Documents/Rockstar Games/RDR2 folder/Settings/`. The game did have a small but unsatisfactory performance boost after that. However, the files kept coming back. I made this script and set it to launch alongside RDR2 so that it continuously clears the pipline cache.
 
